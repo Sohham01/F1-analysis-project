@@ -44,7 +44,7 @@ The dashboard allows users to analyze driver performance, constructor statistics
 
 ### 🤖 Predictive Analytics
 
-Machine Learning model built using Linear Regression.
+Simple Machine Learning model built using Linear Regression.
 
 Features used:
 
