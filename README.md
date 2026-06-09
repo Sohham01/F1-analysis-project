@@ -120,7 +120,8 @@ PL2_Project/
 ├── requirements.txt
 ├── verify.py
 ├── README.md
-└── .gitignore
+├── .gitignore
+└──launch_board.bat
 ```
 
 ---
