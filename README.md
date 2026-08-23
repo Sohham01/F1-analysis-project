@@ -218,10 +218,15 @@ This project demonstrates:
 ### Group No. 7
 
 1. Apurv Singh (Roll no.-2025BSDSAI021)
+   [@SICKKUNT]
 2. Gaurav Singh (Roll no.-2025BSDSAI042)
+   [@gauravwww]
 3. Livaansh Choudhary (Roll no.-2025BSDSAI049)
+   [@itzmelivaansh-pixel]
 4. Sohham Choudhary (Roll no.-2025BSDSAI077)
+   [@Sohham01]
 5. Varun Sharma (Roll no.-2025BSDSAI083)
+   [@varunsh1812-arch]
 
 ---
 
