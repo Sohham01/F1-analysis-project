@@ -1,5 +1,8 @@
 # 🏎️ Formula 1 Analytics Hub
 
+## Demo
+https://f1-analysis-proj.streamlit.app/
+
 ## Overview
 
 Formula 1 Analytics Hub is an interactive data analytics dashboard built using Python and Streamlit. The project explores historical Formula 1 race data through data cleaning, exploratory analysis, visualization, and predictive modeling.
